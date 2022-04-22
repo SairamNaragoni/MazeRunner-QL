@@ -1,0 +1,8 @@
+{
+    "learning_rate": 0.2,
+    "discount_factor": 0.9,
+    "e_greedy_value": 0.5,
+    "exploration_type": "e-greedy",
+    "max_episodes": 300,
+    "max_steps_per_episode": 1000
+}
